@@ -1,5 +1,6 @@
 
- MR BENAOMAR CHEMS EDDINE je suis en formation developpeur Web,Web mobile 
+ <H3> MR BENAOMAR CHEMS EDDINE</H3>
+    <P>Je suis en formation developpeur web etweb mobile</P>
 <img src="https://github.com/chems13/chems13/assets/134854267/17cfd667-74e5-4d11-a19c-cc84b3ac7fee" style="width:100px">
 
 
