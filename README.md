@@ -1,6 +1,6 @@
 
    <H3 align="center"> MR BENAOMAR CHEMS EDDINE</H3>
-    <p align="center">Je suis en formation developpeur web et web mobile au sein de l'organisme simplon</P>
+    <p align="center">Developpeur web et web mobile</P>
     <p align="center">
      <img src="https://github.com/chems13/chems13/assets/134854267/17cfd667-74e5-4d11-a19c-cc84b3ac7fee" style="width:100px">
     </p>
